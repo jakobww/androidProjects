@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">fragments</string>
+    <string name="action_settings">Settings</string>
+    <string name="bottonText">Thank me bro</string>
+    <string name="toptext">Top</string>
+    <string name="bottomtext">Bottom</string>
+</resources>
